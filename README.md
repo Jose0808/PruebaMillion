@@ -8,11 +8,11 @@ Este repositorio contiene tanto el **Frontend** (React + Vite + Zustand + Tailwi
 ```
 ├── Front/
 │ └── properties-frontend/ # Aplicación frontend en React
-│ └── README.md # Instrucciones específicas del frontend
+│   └── README.md # Instrucciones específicas del frontend
 │
 └── Back/
 └── RealEstateAPI/ # API backend en ASP.NET Core
-└── README.md # Instrucciones específicas del backend
+  └── README.md # Instrucciones específicas del backend
 ```
 
 ---
