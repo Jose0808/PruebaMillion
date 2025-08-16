@@ -5,8 +5,7 @@ Este repositorio contiene tanto el **Frontend** (React + Vite + Zustand + Tailwi
 ---
 
 ## 📂 Estructura del Proyecto
-
-.
+```
 ├── Front/
 │ └── properties-frontend/ # Aplicación frontend en React
 │ └── README.md # Instrucciones específicas del frontend
@@ -14,7 +13,7 @@ Este repositorio contiene tanto el **Frontend** (React + Vite + Zustand + Tailwi
 └── Back/
 └── RealEstateAPI/ # API backend en ASP.NET Core
 └── README.md # Instrucciones específicas del backend
-
+```
 
 ---
 
