@@ -137,3 +137,51 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+
+
+
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.ldf
+*.mdf
+
+# Visual Studio
+.vs/
+*.ncrunch*
+*.nunit.xml
+_TestResults/
+*.TestResults.xml
+
+# Rider
+.idea/
+
+# Coverage
+*.coverage
+*.coveragexml
+*.dotCover
+
+# Publish output
+*.publishsettings
+*.pubxml
+*.pubxml.user
+Properties/launchSettings.json
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.nuget.props
+*.nuget.targets
+.nuget/

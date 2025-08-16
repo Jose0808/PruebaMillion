@@ -1,0 +1,2591 @@
+[{
+  "_id": {
+    "$oid": "689bb0e63f15768dbc29b336"
+  },
+  "IdOwner": "OWN001",
+  "Name": "Casa Moderna de Lujo La Calera",
+  "AddressProperty": "Calle 15 #23-45, Conjunto Reservado, La Calera, Cundinamarca",
+  "PriceProperty": 850000000,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 4,
+  "Bathrooms": 3,
+  "Area": 280.5,
+  "YearBuilt": 2020,
+  "Description": "Hermosa casa moderna con acabados de lujo, vista panorámica de la sabana de Bogotá.",
+  "Features": [
+    "Piscina",
+    "Jardín privado",
+    "Chimenea",
+    "Estudio",
+    "Cuarto de servicio"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689bb0e63f15768dbc29b337"
+  },
+  "IdOwner": "OWN002",
+  "Name": "Apartamento Ejecutivo Zona Rosa Premium",
+  "AddressProperty": "Carrera 11 #93-45, Torre Empresarial, Zona Rosa, Bogotá",
+  "PriceProperty": 450000000,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Available",
+  "Bedrooms": 2,
+  "Bathrooms": 2,
+  "Area": 85,
+  "YearBuilt": 2019,
+  "Description": "Moderno apartamento en el corazón de la Zona Rosa, ideal para ejecutivos.",
+  "Features": [
+    "Balcón",
+    "Cocina integral",
+    "Closets empotrados",
+    "Aire acondicionado"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2024-01-10T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-01-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689bb0e63f15768dbc29b338"
+  },
+  "IdOwner": "OWN003",
+  "Name": "Finca Campestre Exclusiva Chía",
+  "AddressProperty": "Vereda Samaria, Km 3 vía Chía-Cajicá, Chía, Cundinamarca",
+  "PriceProperty": 1200000000,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Available",
+  "Bedrooms": 6,
+  "Bathrooms": 4,
+  "Area": 450,
+  "YearBuilt": 2018,
+  "Description": "Espectacular finca campestre con casa principal y casa de huéspedes.",
+  "Features": [
+    "Piscina olímpica",
+    "Cancha de tenis",
+    "Establos",
+    "Zona BBQ",
+    "Senderos ecológicos"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2024-01-08T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-01-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689bb0e63f15768dbc29b339"
+  },
+  "IdOwner": "OWN001",
+  "Name": "Penthouse Histórico Centro Bogotá",
+  "AddressProperty": "Carrera 8 #12-34, Edificio Colonial Restaurado, Centro, Bogotá",
+  "PriceProperty": 680000000,
+  "Image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Reserved",
+  "Bedrooms": 3,
+  "Bathrooms": 2,
+  "Area": 120,
+  "YearBuilt": 1920,
+  "Description": "Exclusivo penthouse en edificio histórico completamente renovado.",
+  "Features": [
+    "Terraza privada",
+    "Techos altos",
+    "Vigas expuestas",
+    "Vista al centro histórico"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2024-01-05T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-01-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689bb0e63f15768dbc29b33a"
+  },
+  "IdOwner": "OWN004",
+  "Name": "Casa Familiar Tradicional Cajicá",
+  "AddressProperty": "Calle 3 #45-67, Barrio Los Cerezos, Cajicá, Cundinamarca",
+  "PriceProperty": 320000000,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 3,
+  "Bathrooms": 2,
+  "Area": 150,
+  "YearBuilt": 2015,
+  "Description": "Acogedora casa familiar en conjunto cerrado con zonas verdes.",
+  "Features": [
+    "Jardín posterior",
+    "Zona de ropas",
+    "Sala comedor independiente",
+    "Cocina integral"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2024-01-12T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-01-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "715c3f214669490190f71ad1"
+  },
+  "IdOwner": "OWN008",
+  "Name": "Local Comercial Cajicá 18",
+  "AddressProperty": "Calle 16 #48-11, Cajicá, Cundinamarca",
+  "PriceProperty": 605100254,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Available",
+  "Bedrooms": 7,
+  "Bathrooms": 5,
+  "Area": 392,
+  "YearBuilt": 1988,
+  "Description": "Propiedad en Cajicá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Balcón",
+    "Parqueadero cubierto",
+    "Parque infantil",
+    "Terraza",
+    "Sala de cine",
+    "Sauna"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-10-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "8d1b81a184f94219a18a39da"
+  },
+  "IdOwner": "OWN006",
+  "Name": "Oficina Cali 787",
+  "AddressProperty": "Calle 84 #50-7, Cali, Valle del Cauca",
+  "PriceProperty": 646166224,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 1,
+  "Bathrooms": 2,
+  "Area": 630,
+  "YearBuilt": 2001,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parqueadero cubierto",
+    "Sala de cine",
+    "Parque infantil"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2021-10-04T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2022-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a7d15a6d6e2844c1ae0e2419"
+  },
+  "IdOwner": "OWN009",
+  "Name": "Casa Cali 56",
+  "AddressProperty": "Calle 99 #10-30, Cali, Valle del Cauca",
+  "PriceProperty": 1298444716,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Rented",
+  "Bedrooms": 4,
+  "Bathrooms": 5,
+  "Area": 792,
+  "YearBuilt": 2005,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Piscina",
+    "Jardín",
+    "Jacuzzi"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2017-04-02T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2017-11-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "32fecb867d9c4be8bb2a0608"
+  },
+  "IdOwner": "OWN018",
+  "Name": "Finca Cali 727",
+  "AddressProperty": "Calle 81 #37-36, Cali, Valle del Cauca",
+  "PriceProperty": 1346177500,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Available",
+  "Bedrooms": 8,
+  "Bathrooms": 4,
+  "Area": 240,
+  "YearBuilt": 1980,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parqueadero cubierto",
+    "Turco",
+    "Jacuzzi",
+    "Estudio",
+    "Balcón"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2024-06-16T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-09-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "e4591a536cc749f1837586b5"
+  },
+  "IdOwner": "OWN010",
+  "Name": "Apartamento Bucaramanga 169",
+  "AddressProperty": "Calle 72 #24-10, Bucaramanga, Santander",
+  "PriceProperty": 1199427887,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Rented",
+  "Bedrooms": 8,
+  "Bathrooms": 2,
+  "Area": 129,
+  "YearBuilt": 1982,
+  "Description": "Propiedad en Bucaramanga con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Terraza",
+    "Parque infantil",
+    "Zona BBQ"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2019-05-22T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-10-06T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "459b516934c848b1aaeb645a"
+  },
+  "IdOwner": "OWN011",
+  "Name": "Apartamento Cali 702",
+  "AddressProperty": "Calle 89 #44-40, Cali, Valle del Cauca",
+  "PriceProperty": 311869798,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Rented",
+  "Bedrooms": 3,
+  "Bathrooms": 6,
+  "Area": 201,
+  "YearBuilt": 1993,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sala de cine",
+    "Terraza",
+    "Turco"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2024-04-02T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-11-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ec4519bf23c6477b9e0acde8"
+  },
+  "IdOwner": "OWN011",
+  "Name": "Finca Bogotá 898",
+  "AddressProperty": "Calle 64 #1-36, Bogotá, Cundinamarca",
+  "PriceProperty": 692536309,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 1,
+  "Bathrooms": 1,
+  "Area": 503,
+  "YearBuilt": 1992,
+  "Description": "Propiedad en Bogotá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Piscina",
+    "Jacuzzi",
+    "Turco",
+    "Jardín",
+    "Zona BBQ",
+    "Sala de cine"
+  ],
+  "ParkingSpots": 5,
+  "CreatedDate": {
+    "$date": "2018-07-08T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-04-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "bc0a2c80a51343c2b0d877ab"
+  },
+  "IdOwner": "OWN017",
+  "Name": "Oficina Bucaramanga 505",
+  "AddressProperty": "Calle 52 #1-20, Bucaramanga, Santander",
+  "PriceProperty": 1355457695,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Available",
+  "Bedrooms": 3,
+  "Bathrooms": 4,
+  "Area": 427,
+  "YearBuilt": 2005,
+  "Description": "Propiedad en Bucaramanga con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sala de cine",
+    "Jardín",
+    "Jacuzzi"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2020-09-19T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2020-11-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "cd1bcbb81f2d43cc979cac95"
+  },
+  "IdOwner": "OWN020",
+  "Name": "Local Comercial Bogotá 576",
+  "AddressProperty": "Calle 39 #5-46, Bogotá, Cundinamarca",
+  "PriceProperty": 1460546751,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Available",
+  "Bedrooms": 7,
+  "Bathrooms": 4,
+  "Area": 97,
+  "YearBuilt": 2018,
+  "Description": "Propiedad en Bogotá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parque infantil",
+    "Jacuzzi",
+    "Jardín",
+    "Cancha de tenis",
+    "Sala de cine"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2015-12-18T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2016-07-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "924d94a09bb94a9bb1d17c42"
+  },
+  "IdOwner": "OWN018",
+  "Name": "Oficina Bogotá 231",
+  "AddressProperty": "Calle 57 #42-42, Bogotá, Cundinamarca",
+  "PriceProperty": 647931406,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Available",
+  "Bedrooms": 8,
+  "Bathrooms": 6,
+  "Area": 333,
+  "YearBuilt": 2019,
+  "Description": "Propiedad en Bogotá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Turco",
+    "Estudio",
+    "Zona BBQ",
+    "Jacuzzi",
+    "Cancha de tenis"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2024-09-25T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-10-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ee6b40f3147e4730ad955c08"
+  },
+  "IdOwner": "OWN008",
+  "Name": "Finca Santa Marta 440",
+  "AddressProperty": "Calle 81 #7-26, Santa Marta, Magdalena",
+  "PriceProperty": 1062335288,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Rented",
+  "Bedrooms": 2,
+  "Bathrooms": 1,
+  "Area": 89,
+  "YearBuilt": 2014,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Estudio",
+    "Parqueadero cubierto",
+    "Sala de cine",
+    "Gimnasio",
+    "Parque infantil"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2015-05-20T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2015-06-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "51f75114a613402aa5f29cf0"
+  },
+  "IdOwner": "OWN006",
+  "Name": "Casa Cali 689",
+  "AddressProperty": "Calle 42 #50-29, Cali, Valle del Cauca",
+  "PriceProperty": 645252826,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Sold",
+  "Bedrooms": 8,
+  "Bathrooms": 5,
+  "Area": 540,
+  "YearBuilt": 2011,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Balcón",
+    "Estudio",
+    "Sala de cine",
+    "Cancha de tenis",
+    "Piscina"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2024-06-13T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2025-02-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "eccd666fbf8c424ca86ddfc2"
+  },
+  "IdOwner": "OWN013",
+  "Name": "Apartamento Cali 378",
+  "AddressProperty": "Calle 63 #44-21, Cali, Valle del Cauca",
+  "PriceProperty": 930424913,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Rented",
+  "Bedrooms": 2,
+  "Bathrooms": 5,
+  "Area": 418,
+  "YearBuilt": 1993,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Gimnasio",
+    "Jardín",
+    "Estudio",
+    "Turco"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2016-10-17T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2017-04-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "347492fe109f4f5fbdb648d7"
+  },
+  "IdOwner": "OWN014",
+  "Name": "Local Comercial Cartagena 902",
+  "AddressProperty": "Calle 88 #23-48, Cartagena, Bolívar",
+  "PriceProperty": 924108722,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Sold",
+  "Bedrooms": 7,
+  "Bathrooms": 2,
+  "Area": 326,
+  "YearBuilt": 1988,
+  "Description": "Propiedad en Cartagena con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Turco",
+    "Estudio",
+    "Zona BBQ",
+    "Parqueadero cubierto"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2019-11-19T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2020-10-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a1c8086b5edb41fe8d6f916e"
+  },
+  "IdOwner": "OWN003",
+  "Name": "Apartamento Pereira 37",
+  "AddressProperty": "Calle 47 #30-20, Pereira, Risaralda",
+  "PriceProperty": 1035620549,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Sold",
+  "Bedrooms": 4,
+  "Bathrooms": 3,
+  "Area": 109,
+  "YearBuilt": 2023,
+  "Description": "Propiedad en Pereira con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Terraza",
+    "Sauna",
+    "Sala de cine"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-10-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "539e9d57f4c644e6ad2b599c"
+  },
+  "IdOwner": "OWN012",
+  "Name": "Oficina Cartagena 392",
+  "AddressProperty": "Calle 98 #17-33, Cartagena, Bolívar",
+  "PriceProperty": 1442941673,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Rented",
+  "Bedrooms": 6,
+  "Bathrooms": 3,
+  "Area": 300,
+  "YearBuilt": 2002,
+  "Description": "Propiedad en Cartagena con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Balcón",
+    "Sauna",
+    "Parque infantil",
+    "Cancha de tenis",
+    "Turco"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2020-05-23T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2020-12-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "dd281fa12e1d48228d56ce9a"
+  },
+  "IdOwner": "OWN006",
+  "Name": "Finca Chía 480",
+  "AddressProperty": "Calle 6 #49-27, Chía, Cundinamarca",
+  "PriceProperty": 956907714,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Sold",
+  "Bedrooms": 6,
+  "Bathrooms": 5,
+  "Area": 362,
+  "YearBuilt": 1981,
+  "Description": "Propiedad en Chía con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Turco",
+    "Parqueadero cubierto",
+    "Balcón",
+    "Sauna"
+  ],
+  "ParkingSpots": 5,
+  "CreatedDate": {
+    "$date": "2017-03-30T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2017-06-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "74e92b3430c64414a7614980"
+  },
+  "IdOwner": "OWN006",
+  "Name": "Apartamento Cali 152",
+  "AddressProperty": "Calle 89 #28-21, Cali, Valle del Cauca",
+  "PriceProperty": 415788683,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Available",
+  "Bedrooms": 7,
+  "Bathrooms": 5,
+  "Area": 187,
+  "YearBuilt": 2007,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Estudio",
+    "Cancha de tenis",
+    "Balcón"
+  ],
+  "ParkingSpots": 5,
+  "CreatedDate": {
+    "$date": "2023-07-19T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2023-10-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b8c4dd1868b3421c8270f28a"
+  },
+  "IdOwner": "OWN016",
+  "Name": "Finca Bucaramanga 192",
+  "AddressProperty": "Calle 39 #25-18, Bucaramanga, Santander",
+  "PriceProperty": 243040730,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 5,
+  "Bathrooms": 6,
+  "Area": 240,
+  "YearBuilt": 2021,
+  "Description": "Propiedad en Bucaramanga con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sala de cine",
+    "Parqueadero cubierto",
+    "Zona BBQ",
+    "Turco"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2017-07-13T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2018-02-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "e6f4a6d647f74f279ab129ab"
+  },
+  "IdOwner": "OWN020",
+  "Name": "Apartamento Bogotá 162",
+  "AddressProperty": "Calle 26 #12-48, Bogotá, Cundinamarca",
+  "PriceProperty": 1304132280,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Sold",
+  "Bedrooms": 8,
+  "Bathrooms": 2,
+  "Area": 607,
+  "YearBuilt": 1995,
+  "Description": "Propiedad en Bogotá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Zona BBQ",
+    "Parque infantil",
+    "Jardín",
+    "Sala de cine"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2015-05-23T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2015-08-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "39c5028c0ed14b678145dd12"
+  },
+  "IdOwner": "OWN004",
+  "Name": "Oficina Barranquilla 91",
+  "AddressProperty": "Calle 67 #43-27, Barranquilla, Atlántico",
+  "PriceProperty": 496169896,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Sold",
+  "Bedrooms": 3,
+  "Bathrooms": 4,
+  "Area": 340,
+  "YearBuilt": 2001,
+  "Description": "Propiedad en Barranquilla con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Terraza",
+    "Estudio",
+    "Zona BBQ",
+    "Balcón",
+    "Parque infantil",
+    "Turco"
+  ],
+  "ParkingSpots": 5,
+  "CreatedDate": {
+    "$date": "2021-06-24T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2022-02-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "204fabc74758487bb103b3a4"
+  },
+  "IdOwner": "OWN010",
+  "Name": "Local Comercial Bucaramanga 216",
+  "AddressProperty": "Calle 4 #24-3, Bucaramanga, Santander",
+  "PriceProperty": 1467071930,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Rented",
+  "Bedrooms": 1,
+  "Bathrooms": 5,
+  "Area": 262,
+  "YearBuilt": 1996,
+  "Description": "Propiedad en Bucaramanga con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Jardín",
+    "Parqueadero cubierto",
+    "Zona BBQ",
+    "Sauna"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2020-04-21T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2021-03-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9b00f73cac0b42f4a83184fe"
+  },
+  "IdOwner": "OWN007",
+  "Name": "Finca Medellín 120",
+  "AddressProperty": "Calle 5 #34-39, Medellín, Antioquia",
+  "PriceProperty": 1251891687,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Rented",
+  "Bedrooms": 7,
+  "Bathrooms": 6,
+  "Area": 472,
+  "YearBuilt": 2003,
+  "Description": "Propiedad en Medellín con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Estudio",
+    "Balcón",
+    "Sauna"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2020-06-06T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2020-06-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b6c1ffd8a3db4e7583ce33ae"
+  },
+  "IdOwner": "OWN018",
+  "Name": "Local Comercial Cajicá 737",
+  "AddressProperty": "Calle 18 #41-7, Cajicá, Cundinamarca",
+  "PriceProperty": 636113738,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Sold",
+  "Bedrooms": 6,
+  "Bathrooms": 3,
+  "Area": 497,
+  "YearBuilt": 2008,
+  "Description": "Propiedad en Cajicá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Gimnasio",
+    "Sala de cine",
+    "Piscina",
+    "Balcón",
+    "Parque infantil"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2023-02-22T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2023-03-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "4a69933f2de54d6fa756878a"
+  },
+  "IdOwner": "OWN019",
+  "Name": "Casa Cali 904",
+  "AddressProperty": "Calle 49 #38-14, Cali, Valle del Cauca",
+  "PriceProperty": 255398429,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Rented",
+  "Bedrooms": 6,
+  "Bathrooms": 5,
+  "Area": 77,
+  "YearBuilt": 2020,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Zona BBQ",
+    "Sauna",
+    "Gimnasio",
+    "Piscina",
+    "Terraza",
+    "Parqueadero cubierto"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2018-12-24T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-08-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "34a102c691e64fb2968b10fb"
+  },
+  "IdOwner": "OWN002",
+  "Name": "Oficina Cartagena 877",
+  "AddressProperty": "Calle 2 #25-11, Cartagena, Bolívar",
+  "PriceProperty": 237114390,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Sold",
+  "Bedrooms": 4,
+  "Bathrooms": 6,
+  "Area": 764,
+  "YearBuilt": 2021,
+  "Description": "Propiedad en Cartagena con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Zona BBQ",
+    "Sala de cine",
+    "Jacuzzi",
+    "Cancha de tenis"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2018-05-06T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2018-12-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "f2c4328b7dab46baa418fada"
+  },
+  "IdOwner": "OWN014",
+  "Name": "Local Comercial Barranquilla 257",
+  "AddressProperty": "Calle 44 #45-27, Barranquilla, Atlántico",
+  "PriceProperty": 936606654,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Rented",
+  "Bedrooms": 1,
+  "Bathrooms": 2,
+  "Area": 306,
+  "YearBuilt": 2003,
+  "Description": "Propiedad en Barranquilla con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Cancha de tenis",
+    "Sauna",
+    "Parque infantil",
+    "Turco"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2022-04-11T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2022-09-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b69d02a581c541929d87643f"
+  },
+  "IdOwner": "OWN016",
+  "Name": "Finca Bogotá 651",
+  "AddressProperty": "Calle 45 #40-49, Bogotá, Cundinamarca",
+  "PriceProperty": 1020783612,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Sold",
+  "Bedrooms": 1,
+  "Bathrooms": 1,
+  "Area": 625,
+  "YearBuilt": 2010,
+  "Description": "Propiedad en Bogotá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Zona BBQ",
+    "Parque infantil",
+    "Parqueadero cubierto"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2020-03-21T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2021-01-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b9c6168ce59d41309cda2044"
+  },
+  "IdOwner": "OWN010",
+  "Name": "Finca Cartagena 390",
+  "AddressProperty": "Calle 91 #42-2, Cartagena, Bolívar",
+  "PriceProperty": 712536363,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Rented",
+  "Bedrooms": 3,
+  "Bathrooms": 5,
+  "Area": 64,
+  "YearBuilt": 1984,
+  "Description": "Propiedad en Cartagena con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parqueadero cubierto",
+    "Piscina",
+    "Jardín",
+    "Sala de cine",
+    "Estudio",
+    "Gimnasio"
+  ],
+  "ParkingSpots": 0,
+  "CreatedDate": {
+    "$date": "2015-09-08T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2016-05-29T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "00ec1a40910d43afbe5f2949"
+  },
+  "IdOwner": "OWN007",
+  "Name": "Local Comercial Bucaramanga 633",
+  "AddressProperty": "Calle 82 #7-40, Bucaramanga, Santander",
+  "PriceProperty": 1085580157,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Available",
+  "Bedrooms": 2,
+  "Bathrooms": 5,
+  "Area": 153,
+  "YearBuilt": 2024,
+  "Description": "Propiedad en Bucaramanga con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parqueadero cubierto",
+    "Turco",
+    "Zona BBQ"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2024-10-17T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2025-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "daa5b6459ff14abcae3a171d"
+  },
+  "IdOwner": "OWN014",
+  "Name": "Apartamento Medellín 922",
+  "AddressProperty": "Calle 39 #32-10, Medellín, Antioquia",
+  "PriceProperty": 453399395,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Rented",
+  "Bedrooms": 5,
+  "Bathrooms": 1,
+  "Area": 389,
+  "YearBuilt": 2007,
+  "Description": "Propiedad en Medellín con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Gimnasio",
+    "Estudio",
+    "Piscina",
+    "Zona BBQ",
+    "Parque infantil"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2019-04-01T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-07-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694c845ed97c46d1a60732fd"
+  },
+  "IdOwner": "OWN019",
+  "Name": "Casa Pereira 674",
+  "AddressProperty": "Calle 63 #28-13, Pereira, Risaralda",
+  "PriceProperty": 1178908148,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Available",
+  "Bedrooms": 7,
+  "Bathrooms": 2,
+  "Area": 297,
+  "YearBuilt": 1995,
+  "Description": "Propiedad en Pereira con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Zona BBQ",
+    "Piscina",
+    "Cancha de tenis",
+    "Estudio"
+  ],
+  "ParkingSpots": 0,
+  "CreatedDate": {
+    "$date": "2016-08-31T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2017-02-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "258a54889de9437f98571a9e"
+  },
+  "IdOwner": "OWN013",
+  "Name": "Casa Cali 269",
+  "AddressProperty": "Calle 40 #25-11, Cali, Valle del Cauca",
+  "PriceProperty": 723421043,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Available",
+  "Bedrooms": 1,
+  "Bathrooms": 4,
+  "Area": 749,
+  "YearBuilt": 2012,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Piscina",
+    "Sauna",
+    "Estudio",
+    "Parqueadero cubierto",
+    "Gimnasio",
+    "Jardín"
+  ],
+  "ParkingSpots": 0,
+  "CreatedDate": {
+    "$date": "2018-12-24T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-10-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "28a8683d85ab43888729c6e7"
+  },
+  "IdOwner": "OWN010",
+  "Name": "Oficina Cartagena 762",
+  "AddressProperty": "Calle 21 #27-15, Cartagena, Bolívar",
+  "PriceProperty": 400372815,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Rented",
+  "Bedrooms": 8,
+  "Bathrooms": 3,
+  "Area": 632,
+  "YearBuilt": 2023,
+  "Description": "Propiedad en Cartagena con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sala de cine",
+    "Jardín",
+    "Parque infantil",
+    "Jacuzzi",
+    "Zona BBQ",
+    "Sauna"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2021-11-15T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2022-06-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e2d0bc955b4ac09d62b816"
+  },
+  "IdOwner": "OWN004",
+  "Name": "Apartamento Barranquilla 775",
+  "AddressProperty": "Calle 18 #35-33, Barranquilla, Atlántico",
+  "PriceProperty": 295994585,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Rented",
+  "Bedrooms": 2,
+  "Bathrooms": 4,
+  "Area": 665,
+  "YearBuilt": 2008,
+  "Description": "Propiedad en Barranquilla con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sauna",
+    "Jardín",
+    "Gimnasio",
+    "Zona BBQ",
+    "Turco"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2024-07-02T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "db6551fd2f7b474eb556681e"
+  },
+  "IdOwner": "OWN002",
+  "Name": "Casa Cali 632",
+  "AddressProperty": "Calle 66 #24-50, Cali, Valle del Cauca",
+  "PriceProperty": 573120926,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Available",
+  "Bedrooms": 3,
+  "Bathrooms": 4,
+  "Area": 168,
+  "YearBuilt": 1984,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Gimnasio",
+    "Jardín",
+    "Zona BBQ",
+    "Parque infantil",
+    "Jacuzzi"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2018-10-19T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-09-27T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "0f66d79e24704b4bb0f974d4"
+  },
+  "IdOwner": "OWN013",
+  "Name": "Local Comercial Santa Marta 900",
+  "AddressProperty": "Calle 83 #15-25, Santa Marta, Magdalena",
+  "PriceProperty": 1354366379,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Rented",
+  "Bedrooms": 6,
+  "Bathrooms": 4,
+  "Area": 630,
+  "YearBuilt": 2007,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sala de cine",
+    "Balcón",
+    "Turco",
+    "Piscina",
+    "Parqueadero cubierto",
+    "Cancha de tenis"
+  ],
+  "ParkingSpots": 0,
+  "CreatedDate": {
+    "$date": "2021-09-28T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2022-04-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "04d04198167b4ec0a8ce48be"
+  },
+  "IdOwner": "OWN011",
+  "Name": "Finca Chía 446",
+  "AddressProperty": "Calle 41 #27-46, Chía, Cundinamarca",
+  "PriceProperty": 1017630820,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 2,
+  "Bathrooms": 1,
+  "Area": 551,
+  "YearBuilt": 1996,
+  "Description": "Propiedad en Chía con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Jacuzzi",
+    "Turco",
+    "Sala de cine",
+    "Cancha de tenis",
+    "Zona BBQ"
+  ],
+  "ParkingSpots": 0,
+  "CreatedDate": {
+    "$date": "2018-01-16T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2018-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "59e124aaf8504a4c8d80fc44"
+  },
+  "IdOwner": "OWN007",
+  "Name": "Oficina Santa Marta 117",
+  "AddressProperty": "Calle 76 #42-17, Santa Marta, Magdalena",
+  "PriceProperty": 1490941093,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Available",
+  "Bedrooms": 7,
+  "Bathrooms": 3,
+  "Area": 53,
+  "YearBuilt": 1987,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Turco",
+    "Sauna",
+    "Parque infantil",
+    "Gimnasio",
+    "Parqueadero cubierto",
+    "Terraza"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2017-03-13T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2017-12-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "d7e9f781ba0547cfa49926ad"
+  },
+  "IdOwner": "OWN010",
+  "Name": "Local Comercial Medellín 330",
+  "AddressProperty": "Calle 25 #48-48, Medellín, Antioquia",
+  "PriceProperty": 1216389379,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Sold",
+  "Bedrooms": 2,
+  "Bathrooms": 5,
+  "Area": 784,
+  "YearBuilt": 2003,
+  "Description": "Propiedad en Medellín con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Cancha de tenis",
+    "Piscina",
+    "Parqueadero cubierto",
+    "Sauna",
+    "Jacuzzi",
+    "Terraza"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2025-01-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "f7cd34fcd2914015bdc66549"
+  },
+  "IdOwner": "OWN008",
+  "Name": "Finca Cali 852",
+  "AddressProperty": "Calle 31 #5-37, Cali, Valle del Cauca",
+  "PriceProperty": 971532528,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Sold",
+  "Bedrooms": 5,
+  "Bathrooms": 4,
+  "Area": 75,
+  "YearBuilt": 2005,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Balcón",
+    "Gimnasio",
+    "Turco",
+    "Zona BBQ"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2019-07-12T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-10-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "aa318ae0f6dd468aaafeb88e"
+  },
+  "IdOwner": "OWN014",
+  "Name": "Casa Bogotá 974",
+  "AddressProperty": "Calle 31 #10-6, Bogotá, Cundinamarca",
+  "PriceProperty": 1226434442,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Available",
+  "Bedrooms": 6,
+  "Bathrooms": 3,
+  "Area": 512,
+  "YearBuilt": 2020,
+  "Description": "Propiedad en Bogotá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Piscina",
+    "Cancha de tenis",
+    "Parque infantil"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2017-12-22T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2018-08-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "191c63ae13e54c1e83069a3b"
+  },
+  "IdOwner": "OWN010",
+  "Name": "Casa Santa Marta 34",
+  "AddressProperty": "Calle 31 #10-34, Santa Marta, Magdalena",
+  "PriceProperty": 1043156690,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Sold",
+  "Bedrooms": 7,
+  "Bathrooms": 1,
+  "Area": 87,
+  "YearBuilt": 2021,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Jardín",
+    "Parqueadero cubierto",
+    "Zona BBQ"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2025-04-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "77a74831e060444aa2a9d631"
+  },
+  "IdOwner": "OWN008",
+  "Name": "Oficina Santa Marta 334",
+  "AddressProperty": "Calle 35 #49-13, Santa Marta, Magdalena",
+  "PriceProperty": 491588862,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Sold",
+  "Bedrooms": 1,
+  "Bathrooms": 6,
+  "Area": 661,
+  "YearBuilt": 1988,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Jardín",
+    "Sauna",
+    "Terraza",
+    "Sala de cine",
+    "Jacuzzi",
+    "Gimnasio"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2022-11-04T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2022-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c4aa3da9ca2b4091b77622e9"
+  },
+  "IdOwner": "OWN005",
+  "Name": "Oficina Bogotá 598",
+  "AddressProperty": "Calle 5 #1-39, Bogotá, Cundinamarca",
+  "PriceProperty": 633861681,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Sold",
+  "Bedrooms": 1,
+  "Bathrooms": 5,
+  "Area": 499,
+  "YearBuilt": 2006,
+  "Description": "Propiedad en Bogotá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Turco",
+    "Parque infantil",
+    "Zona BBQ",
+    "Parqueadero cubierto",
+    "Sauna",
+    "Jacuzzi"
+  ],
+  "ParkingSpots": 0,
+  "CreatedDate": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2025-07-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "04086ecce28d410ea8587f97"
+  },
+  "IdOwner": "OWN007",
+  "Name": "Apartamento Chía 638",
+  "AddressProperty": "Calle 79 #8-5, Chía, Cundinamarca",
+  "PriceProperty": 1440979566,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Sold",
+  "Bedrooms": 4,
+  "Bathrooms": 1,
+  "Area": 171,
+  "YearBuilt": 1981,
+  "Description": "Propiedad en Chía con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Cancha de tenis",
+    "Parque infantil",
+    "Terraza",
+    "Piscina"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2024-06-29T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2025-02-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "81040adb48de4ff9a8261369"
+  },
+  "IdOwner": "OWN003",
+  "Name": "Apartamento Chía 836",
+  "AddressProperty": "Calle 56 #16-47, Chía, Cundinamarca",
+  "PriceProperty": 756465268,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Rented",
+  "Bedrooms": 2,
+  "Bathrooms": 6,
+  "Area": 611,
+  "YearBuilt": 2003,
+  "Description": "Propiedad en Chía con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Piscina",
+    "Parqueadero cubierto",
+    "Sauna",
+    "Jardín",
+    "Gimnasio"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2024-09-12T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2025-08-27T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a3da49c4579243f689c5ee38"
+  },
+  "IdOwner": "OWN003",
+  "Name": "Casa Barranquilla 797",
+  "AddressProperty": "Calle 47 #46-3, Barranquilla, Atlántico",
+  "PriceProperty": 1207922816,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 4,
+  "Bathrooms": 5,
+  "Area": 692,
+  "YearBuilt": 2017,
+  "Description": "Propiedad en Barranquilla con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sauna",
+    "Terraza",
+    "Parqueadero cubierto"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2015-12-10T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2016-09-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a85d30fd02a2456f93dc78f1"
+  },
+  "IdOwner": "OWN013",
+  "Name": "Apartamento Pereira 123",
+  "AddressProperty": "Calle 34 #42-50, Pereira, Risaralda",
+  "PriceProperty": 588359267,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Available",
+  "Bedrooms": 3,
+  "Bathrooms": 3,
+  "Area": 710,
+  "YearBuilt": 1994,
+  "Description": "Propiedad en Pereira con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Estudio",
+    "Gimnasio",
+    "Sala de cine",
+    "Zona BBQ",
+    "Balcón",
+    "Terraza"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2019-04-08T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2020-03-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "1cbc63dab4944716b404ee82"
+  },
+  "IdOwner": "OWN018",
+  "Name": "Apartamento Cajicá 80",
+  "AddressProperty": "Calle 27 #10-13, Cajicá, Cundinamarca",
+  "PriceProperty": 711647144,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Sold",
+  "Bedrooms": 5,
+  "Bathrooms": 5,
+  "Area": 509,
+  "YearBuilt": 1991,
+  "Description": "Propiedad en Cajicá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parqueadero cubierto",
+    "Gimnasio",
+    "Sauna",
+    "Balcón"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2015-03-03T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2015-09-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2a5634a6c78440d986aa32e2"
+  },
+  "IdOwner": "OWN008",
+  "Name": "Finca Cajicá 134",
+  "AddressProperty": "Calle 24 #2-38, Cajicá, Cundinamarca",
+  "PriceProperty": 951189846,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Available",
+  "Bedrooms": 8,
+  "Bathrooms": 1,
+  "Area": 281,
+  "YearBuilt": 2011,
+  "Description": "Propiedad en Cajicá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Turco",
+    "Estudio",
+    "Terraza",
+    "Parqueadero cubierto",
+    "Sala de cine"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2023-07-17T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-06-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b6cadbcd8a4001a0fdb580"
+  },
+  "IdOwner": "OWN004",
+  "Name": "Local Comercial Bucaramanga 67",
+  "AddressProperty": "Calle 68 #49-11, Bucaramanga, Santander",
+  "PriceProperty": 811434573,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Rented",
+  "Bedrooms": 2,
+  "Bathrooms": 3,
+  "Area": 154,
+  "YearBuilt": 2018,
+  "Description": "Propiedad en Bucaramanga con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Piscina",
+    "Estudio",
+    "Turco",
+    "Jardín"
+  ],
+  "ParkingSpots": 5,
+  "CreatedDate": {
+    "$date": "2015-10-16T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2015-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "76238c335be04efc9e0d1d2f"
+  },
+  "IdOwner": "OWN005",
+  "Name": "Finca Santa Marta 936",
+  "AddressProperty": "Calle 50 #22-50, Santa Marta, Magdalena",
+  "PriceProperty": 734566079,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Available",
+  "Bedrooms": 7,
+  "Bathrooms": 3,
+  "Area": 209,
+  "YearBuilt": 1986,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Jardín",
+    "Estudio",
+    "Parque infantil"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2022-07-14T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2022-08-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9e1be42d2dc2483fa14499fb"
+  },
+  "IdOwner": "OWN003",
+  "Name": "Oficina Bogotá 35",
+  "AddressProperty": "Calle 22 #50-1, Bogotá, Cundinamarca",
+  "PriceProperty": 988517678,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Sold",
+  "Bedrooms": 5,
+  "Bathrooms": 4,
+  "Area": 786,
+  "YearBuilt": 2007,
+  "Description": "Propiedad en Bogotá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sala de cine",
+    "Parqueadero cubierto",
+    "Gimnasio",
+    "Turco",
+    "Jardín"
+  ],
+  "ParkingSpots": 5,
+  "CreatedDate": {
+    "$date": "2019-06-22T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-06-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "d7a871a5a0f5411497339b53"
+  },
+  "IdOwner": "OWN017",
+  "Name": "Oficina Cajicá 238",
+  "AddressProperty": "Calle 80 #10-29, Cajicá, Cundinamarca",
+  "PriceProperty": 1397522353,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Rented",
+  "Bedrooms": 1,
+  "Bathrooms": 1,
+  "Area": 518,
+  "YearBuilt": 2011,
+  "Description": "Propiedad en Cajicá con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Turco",
+    "Terraza",
+    "Parque infantil"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2016-11-27T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2017-05-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "554baabbe7f14830a9ebc5cf"
+  },
+  "IdOwner": "OWN001",
+  "Name": "Casa Cali 696",
+  "AddressProperty": "Calle 71 #19-18, Cali, Valle del Cauca",
+  "PriceProperty": 1499298416,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Available",
+  "Bedrooms": 4,
+  "Bathrooms": 3,
+  "Area": 360,
+  "YearBuilt": 2005,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Gimnasio",
+    "Terraza",
+    "Turco"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2018-01-11T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2018-12-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "e12153e589f04e43be2473c5"
+  },
+  "IdOwner": "OWN019",
+  "Name": "Apartamento Cali 982",
+  "AddressProperty": "Calle 30 #12-36, Cali, Valle del Cauca",
+  "PriceProperty": 1258900706,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 4,
+  "Bathrooms": 1,
+  "Area": 443,
+  "YearBuilt": 2017,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parqueadero cubierto",
+    "Terraza",
+    "Cancha de tenis",
+    "Turco",
+    "Gimnasio",
+    "Sala de cine"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2019-12-30T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2020-04-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6f6fc902a6ce48a3b28a582f"
+  },
+  "IdOwner": "OWN020",
+  "Name": "Oficina Cali 616",
+  "AddressProperty": "Calle 74 #10-26, Cali, Valle del Cauca",
+  "PriceProperty": 397330463,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 4,
+  "Bathrooms": 6,
+  "Area": 409,
+  "YearBuilt": 2003,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Balcón",
+    "Parque infantil",
+    "Sauna",
+    "Jacuzzi"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2016-02-27T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2016-07-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a289798a3c747e7a0e49a0c"
+  },
+  "IdOwner": "OWN020",
+  "Name": "Oficina Santa Marta 202",
+  "AddressProperty": "Calle 72 #12-42, Santa Marta, Magdalena",
+  "PriceProperty": 157214895,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Available",
+  "Bedrooms": 2,
+  "Bathrooms": 3,
+  "Area": 689,
+  "YearBuilt": 1996,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Zona BBQ",
+    "Sauna",
+    "Parqueadero cubierto"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2024-03-12T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2025-02-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c8735efabee5470d9ea09f11"
+  },
+  "IdOwner": "OWN009",
+  "Name": "Apartamento Santa Marta 491",
+  "AddressProperty": "Calle 77 #41-32, Santa Marta, Magdalena",
+  "PriceProperty": 833417828,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Available",
+  "Bedrooms": 4,
+  "Bathrooms": 3,
+  "Area": 537,
+  "YearBuilt": 2001,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Jardín",
+    "Sala de cine",
+    "Sauna",
+    "Parqueadero cubierto",
+    "Terraza",
+    "Turco"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2016-05-05T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2016-07-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5c989fd61c4145898ecde4e7"
+  },
+  "IdOwner": "OWN017",
+  "Name": "Apartamento Chía 31",
+  "AddressProperty": "Calle 8 #41-36, Chía, Cundinamarca",
+  "PriceProperty": 291893120,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Rented",
+  "Bedrooms": 6,
+  "Bathrooms": 5,
+  "Area": 555,
+  "YearBuilt": 1999,
+  "Description": "Propiedad en Chía con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Balcón",
+    "Sauna",
+    "Zona BBQ",
+    "Estudio"
+  ],
+  "ParkingSpots": 0,
+  "CreatedDate": {
+    "$date": "2020-09-16T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2021-04-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c7ade6c2a6aa4db29de8b9ba"
+  },
+  "IdOwner": "OWN003",
+  "Name": "Finca Cali 201",
+  "AddressProperty": "Calle 34 #24-16, Cali, Valle del Cauca",
+  "PriceProperty": 413234962,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Available",
+  "Bedrooms": 4,
+  "Bathrooms": 6,
+  "Area": 784,
+  "YearBuilt": 1998,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parqueadero cubierto",
+    "Gimnasio",
+    "Piscina"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2015-09-16T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2016-07-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "0564652d7562418c978bc2f2"
+  },
+  "IdOwner": "OWN010",
+  "Name": "Finca Barranquilla 714",
+  "AddressProperty": "Calle 24 #9-43, Barranquilla, Atlántico",
+  "PriceProperty": 944513596,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Available",
+  "Bedrooms": 4,
+  "Bathrooms": 2,
+  "Area": 752,
+  "YearBuilt": 2004,
+  "Description": "Propiedad en Barranquilla con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Gimnasio",
+    "Parque infantil",
+    "Jacuzzi",
+    "Sala de cine"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2017-04-02T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2018-03-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "1927d6fdc1de4305b8483f3a"
+  },
+  "IdOwner": "OWN008",
+  "Name": "Apartamento Chía 828",
+  "AddressProperty": "Calle 99 #43-10, Chía, Cundinamarca",
+  "PriceProperty": 1048522357,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Rented",
+  "Bedrooms": 2,
+  "Bathrooms": 4,
+  "Area": 471,
+  "YearBuilt": 2004,
+  "Description": "Propiedad en Chía con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Jardín",
+    "Balcón",
+    "Piscina"
+  ],
+  "ParkingSpots": 0,
+  "CreatedDate": {
+    "$date": "2022-04-01T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2023-01-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9efbbd9dcbec47cc97cafd58"
+  },
+  "IdOwner": "OWN001",
+  "Name": "Casa Cali 609",
+  "AddressProperty": "Calle 73 #40-27, Cali, Valle del Cauca",
+  "PriceProperty": 406878914,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Sold",
+  "Bedrooms": 1,
+  "Bathrooms": 5,
+  "Area": 575,
+  "YearBuilt": 2016,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Terraza",
+    "Jardín",
+    "Estudio",
+    "Balcón",
+    "Cancha de tenis",
+    "Parque infantil"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2018-08-16T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-03-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "52717f9714c24180a6f24fdf"
+  },
+  "IdOwner": "OWN005",
+  "Name": "Casa Santa Marta 596",
+  "AddressProperty": "Calle 57 #45-13, Santa Marta, Magdalena",
+  "PriceProperty": 1060514878,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Sold",
+  "Bedrooms": 5,
+  "Bathrooms": 3,
+  "Area": 176,
+  "YearBuilt": 2012,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Jacuzzi",
+    "Balcón",
+    "Gimnasio",
+    "Estudio"
+  ],
+  "ParkingSpots": 5,
+  "CreatedDate": {
+    "$date": "2024-08-19T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "fc204beb65724c16835f5a50"
+  },
+  "IdOwner": "OWN009",
+  "Name": "Oficina Pereira 313",
+  "AddressProperty": "Calle 61 #18-36, Pereira, Risaralda",
+  "PriceProperty": 444816180,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Sold",
+  "Bedrooms": 5,
+  "Bathrooms": 6,
+  "Area": 227,
+  "YearBuilt": 2000,
+  "Description": "Propiedad en Pereira con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Piscina",
+    "Balcón",
+    "Jacuzzi"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2018-10-21T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-07-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b636d0ed5d8749259e3680fa"
+  },
+  "IdOwner": "OWN016",
+  "Name": "Casa Barranquilla 601",
+  "AddressProperty": "Calle 8 #5-43, Barranquilla, Atlántico",
+  "PriceProperty": 697429504,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Sold",
+  "Bedrooms": 7,
+  "Bathrooms": 3,
+  "Area": 438,
+  "YearBuilt": 2004,
+  "Description": "Propiedad en Barranquilla con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sauna",
+    "Sala de cine",
+    "Cancha de tenis",
+    "Terraza",
+    "Jacuzzi",
+    "Jardín"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2017-05-13T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2017-09-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "502e89cd0f4d43ed8a1d523f"
+  },
+  "IdOwner": "OWN009",
+  "Name": "Finca Cali 230",
+  "AddressProperty": "Calle 26 #49-30, Cali, Valle del Cauca",
+  "PriceProperty": 1192770349,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Sold",
+  "Bedrooms": 3,
+  "Bathrooms": 2,
+  "Area": 288,
+  "YearBuilt": 1995,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parque infantil",
+    "Parqueadero cubierto",
+    "Sala de cine",
+    "Turco"
+  ],
+  "ParkingSpots": 5,
+  "CreatedDate": {
+    "$date": "2018-04-18T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2019-03-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "dd2da1452efa4bc1ad806e74"
+  },
+  "IdOwner": "OWN012",
+  "Name": "Local Comercial Pereira 68",
+  "AddressProperty": "Calle 47 #25-37, Pereira, Risaralda",
+  "PriceProperty": 657673937,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Finca",
+  "Status": "Sold",
+  "Bedrooms": 4,
+  "Bathrooms": 4,
+  "Area": 655,
+  "YearBuilt": 2000,
+  "Description": "Propiedad en Pereira con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Zona BBQ",
+    "Parque infantil",
+    "Cancha de tenis",
+    "Jacuzzi",
+    "Turco",
+    "Sauna"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2017-09-20T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2018-03-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "3dfefaaeb94c41fb85d0203c"
+  },
+  "IdOwner": "OWN001",
+  "Name": "Apartamento Pereira 469",
+  "AddressProperty": "Calle 10 #3-35, Pereira, Risaralda",
+  "PriceProperty": 522598116,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Sold",
+  "Bedrooms": 1,
+  "Bathrooms": 1,
+  "Area": 286,
+  "YearBuilt": 2024,
+  "Description": "Propiedad en Pereira con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Turco",
+    "Jacuzzi",
+    "Piscina"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2019-04-06T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2020-01-27T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "fde96032f2344eba8d577a17"
+  },
+  "IdOwner": "OWN003",
+  "Name": "Local Comercial Bucaramanga 609",
+  "AddressProperty": "Calle 43 #10-23, Bucaramanga, Santander",
+  "PriceProperty": 278544028,
+  "Image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Sold",
+  "Bedrooms": 2,
+  "Bathrooms": 4,
+  "Area": 707,
+  "YearBuilt": 1991,
+  "Description": "Propiedad en Bucaramanga con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sauna",
+    "Gimnasio",
+    "Terraza",
+    "Cancha de tenis",
+    "Jardín",
+    "Parqueadero cubierto"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2021-01-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "bb80c4c310944dceb60c6cb7"
+  },
+  "IdOwner": "OWN017",
+  "Name": "Local Comercial Bucaramanga 800",
+  "AddressProperty": "Calle 30 #24-22, Bucaramanga, Santander",
+  "PriceProperty": 757778591,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Rented",
+  "Bedrooms": 2,
+  "Bathrooms": 1,
+  "Area": 678,
+  "YearBuilt": 2020,
+  "Description": "Propiedad en Bucaramanga con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parqueadero cubierto",
+    "Turco",
+    "Gimnasio",
+    "Sauna",
+    "Balcón",
+    "Parque infantil"
+  ],
+  "ParkingSpots": 1,
+  "CreatedDate": {
+    "$date": "2024-09-14T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-09-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "8b57f750a65e4793805dc068"
+  },
+  "IdOwner": "OWN015",
+  "Name": "Casa Santa Marta 270",
+  "AddressProperty": "Calle 17 #22-15, Santa Marta, Magdalena",
+  "PriceProperty": 457920952,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 5,
+  "Bathrooms": 4,
+  "Area": 98,
+  "YearBuilt": 1993,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Jardín",
+    "Jacuzzi",
+    "Estudio"
+  ],
+  "ParkingSpots": 4,
+  "CreatedDate": {
+    "$date": "2021-06-03T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2021-11-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "003a4610c3944dd4a3a8a0ae"
+  },
+  "IdOwner": "OWN013",
+  "Name": "Casa Santa Marta 120",
+  "AddressProperty": "Calle 36 #21-29, Santa Marta, Magdalena",
+  "PriceProperty": 859133801,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Rented",
+  "Bedrooms": 8,
+  "Bathrooms": 3,
+  "Area": 130,
+  "YearBuilt": 1989,
+  "Description": "Propiedad en Santa Marta con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Jacuzzi",
+    "Piscina",
+    "Parqueadero cubierto",
+    "Sauna",
+    "Balcón",
+    "Gimnasio"
+  ],
+  "ParkingSpots": 3,
+  "CreatedDate": {
+    "$date": "2024-07-14T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2024-10-29T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "71a41461c91b4e549c51d142"
+  },
+  "IdOwner": "OWN012",
+  "Name": "Finca Chía 504",
+  "AddressProperty": "Calle 53 #5-46, Chía, Cundinamarca",
+  "PriceProperty": 440631963,
+  "Image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Rented",
+  "Bedrooms": 2,
+  "Bathrooms": 5,
+  "Area": 162,
+  "YearBuilt": 1982,
+  "Description": "Propiedad en Chía con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Cancha de tenis",
+    "Piscina",
+    "Sala de cine",
+    "Parque infantil",
+    "Parqueadero cubierto",
+    "Zona BBQ"
+  ],
+  "ParkingSpots": 2,
+  "CreatedDate": {
+    "$date": "2020-02-06T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2020-08-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ce09b23354964a39abd4fec2"
+  },
+  "IdOwner": "OWN001",
+  "Name": "Local Comercial Cartagena 514",
+  "AddressProperty": "Calle 17 #45-21, Cartagena, Bolívar",
+  "PriceProperty": 1334725011,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Casa",
+  "Status": "Available",
+  "Bedrooms": 1,
+  "Bathrooms": 4,
+  "Area": 402,
+  "YearBuilt": 2011,
+  "Description": "Propiedad en Cartagena con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sauna",
+    "Estudio",
+    "Terraza"
+  ],
+  "ParkingSpots": 0,
+  "CreatedDate": {
+    "$date": "2022-09-01T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2023-07-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a429b67d52cf44fcb80d9c39"
+  },
+  "IdOwner": "OWN002",
+  "Name": "Local Comercial Medellín 257",
+  "AddressProperty": "Calle 43 #31-31, Medellín, Antioquia",
+  "PriceProperty": 808055949,
+  "Image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+  "PropertyType": "Apartamento",
+  "Status": "Sold",
+  "Bedrooms": 7,
+  "Bathrooms": 4,
+  "Area": 90,
+  "YearBuilt": 2013,
+  "Description": "Propiedad en Medellín con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Parqueadero cubierto",
+    "Piscina",
+    "Parque infantil",
+    "Sala de cine",
+    "Cancha de tenis"
+  ],
+  "ParkingSpots": 0,
+  "CreatedDate": {
+    "$date": "2017-04-29T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2017-09-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "e656cd31a38e42c8ac04edb7"
+  },
+  "IdOwner": "OWN007",
+  "Name": "Casa Cali 362",
+  "AddressProperty": "Calle 16 #11-22, Cali, Valle del Cauca",
+  "PriceProperty": 405229385,
+  "Image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Rented",
+  "Bedrooms": 7,
+  "Bathrooms": 2,
+  "Area": 439,
+  "YearBuilt": 2008,
+  "Description": "Propiedad en Cali con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Turco",
+    "Parque infantil",
+    "Zona BBQ",
+    "Gimnasio",
+    "Piscina",
+    "Jacuzzi"
+  ],
+  "ParkingSpots": 5,
+  "CreatedDate": {
+    "$date": "2019-08-15T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2020-03-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "785340ddeb4f4752b0880ff6"
+  },
+  "IdOwner": "OWN003",
+  "Name": "Finca Barranquilla 535",
+  "AddressProperty": "Calle 85 #30-49, Barranquilla, Atlántico",
+  "PriceProperty": 1134536922,
+  "Image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+  "PropertyType": "Oficina",
+  "Status": "Rented",
+  "Bedrooms": 5,
+  "Bathrooms": 1,
+  "Area": 642,
+  "YearBuilt": 2015,
+  "Description": "Propiedad en Barranquilla con excelentes acabados y ubicación estratégica.",
+  "Features": [
+    "Sala de cine",
+    "Parqueadero cubierto",
+    "Estudio",
+    "Turco",
+    "Gimnasio"
+  ],
+  "ParkingSpots": 5,
+  "CreatedDate": {
+    "$date": "2015-05-05T00:00:00.000Z"
+  },
+  "UpdatedDate": {
+    "$date": "2016-01-07T00:00:00.000Z"
+  }
+}]
